@@ -1,4 +1,4 @@
-# declarimpot2086
+# Extension Firefox: declarimpot2086
 
 /!\ Attention! les scripts et extension proposés ici sont à utliser à vos risques et périls. /!\
 
