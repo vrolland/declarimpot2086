@@ -1,0 +1,18 @@
+{
+
+  "description": "Remplit le formulaire n°2086 a partir d'un json généré à partir du xls généré par waltio.co",
+  "manifest_version": 2,
+  "name": "Declarimpot2086",
+  "version": "1.0",
+  "icons": {
+    "48": "icons/tax.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_icon": "icons/tax.png",
+    "default_title": "Declarimpot2086",
+    "default_popup": "popup/launch.html"
+  }
+}
